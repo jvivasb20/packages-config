@@ -2,9 +2,7 @@
 
 ### Windows
 
-```powershell
-choco install personal/packages.config -y
-```
+- Run `run.bat`
 
 ### Linux
 
